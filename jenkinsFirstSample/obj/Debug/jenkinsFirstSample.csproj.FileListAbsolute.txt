@@ -1,0 +1,7 @@
+D:\Specialisation\jenkinsFirst\jenkinsFirstSample\jenkinsFirstSample\bin\Debug\jenkinsFirstSample.exe.config
+D:\Specialisation\jenkinsFirst\jenkinsFirstSample\jenkinsFirstSample\bin\Debug\jenkinsFirstSample.exe
+D:\Specialisation\jenkinsFirst\jenkinsFirstSample\jenkinsFirstSample\bin\Debug\jenkinsFirstSample.pdb
+D:\Specialisation\jenkinsFirst\jenkinsFirstSample\jenkinsFirstSample\obj\Debug\jenkinsFirstSample.csprojAssemblyReference.cache
+D:\Specialisation\jenkinsFirst\jenkinsFirstSample\jenkinsFirstSample\obj\Debug\jenkinsFirstSample.csproj.CoreCompileInputs.cache
+D:\Specialisation\jenkinsFirst\jenkinsFirstSample\jenkinsFirstSample\obj\Debug\jenkinsFirstSample.exe
+D:\Specialisation\jenkinsFirst\jenkinsFirstSample\jenkinsFirstSample\obj\Debug\jenkinsFirstSample.pdb
