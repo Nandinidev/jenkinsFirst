@@ -11,7 +11,7 @@ namespace jenkinsFirstSample
         static void Main(string[] args)
         {
             Console.WriteLine("hello there !");
-            Console.WriteLine("adding after first commit");
+            Console.WriteLine("adding after first commit")
         }
     }
 }
